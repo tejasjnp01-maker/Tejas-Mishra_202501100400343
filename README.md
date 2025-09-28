@@ -1,6 +1,5 @@
 # Tejas-Mishra_202501100400343
-GoGlobe
-# ExploreJourneys 🌍✈
+# GoGlobe 🌍✈
 
 A simple travel website recommending *5 amazing destinations*.  
 Each destination includes photos, main tourist attractions, adventure activities, YouTube vlog links, and a detailed travel guide.  
